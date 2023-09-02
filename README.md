@@ -1,7 +1,7 @@
 <h1>Simple Website using HTML and CSS</h1>
 
 <h2>Description</h2>
-I made a simple website from scratch using HTML and CSS using Visual Studio Code and is hosted via Github. I created this to test my skills and creativity in said languages. I'll further improve this website in the future with Javascript and possibly make it a website for my portfolio. 
+I made a simple website from scratch using HTML and CSS using Visual Studio Code and is hosted via Github. I created this just to test my skills and creativity in said languages. I'll further improve this website in the future with Javascript and possibly make it a website for my portfolio. 
 <br />
 
 
